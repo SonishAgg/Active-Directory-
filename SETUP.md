@@ -41,13 +41,15 @@ In the Proxmox UI, I created a VM and set it to these values:
 2. Set language/keyboard 
 3. Edition: **Windows Server 2022 Standard** 
 
-<img width="1025" height="822" alt="Windows Version Selection" src="https://github.com/user-attachments/assets/9cdbc9c8-4b0d-4723-be75-7a0ee045abbe" />
+<img width="1025" height="822" alt="Windows Version Selection" src="https://github.com/user-attachments/assets/05c5e828-a6d8-45ef-b27d-64819613ea43" />
+
 
 7. At first boot, I set the **Administrator** password 
 8. Logging in: in the Proxmox console, I used the **Ctrl+Alt+Del** toolbar button, then my password.
 9. I was greeted by Windows Server Manager automatically opening.
 
-<img width="1016" height="825" alt="Windows Server Manager Open" src="https://github.com/user-attachments/assets/9ff6aba5-7c9c-4cae-820d-15e85878331d" />
+<img width="1016" height="825" alt="Windows Server Manager Open" src="https://github.com/user-attachments/assets/f92f7209-1912-4954-912e-52c3d3e69553" />
+
 
 
 ---
