@@ -79,7 +79,7 @@ authentication, DNS, and policy actually fit together.
 - [x] Create OU, user, and group
 - [ ] Finish Windows 11 client install (local account)
 - [ ] Set client static IP with DNS pointed at the DC
-- [ ] **Join `WIN11-A` to the domain** and log in as `LAB\testuser`
+- [ ] Join `WIN11-A` to the domain and log in as `LAB\testuser`
 - [ ] Clone `WIN11-A` → `WIN11-B` (second client)
 - [ ] Group Policy experiments (password policy, drive mapping, desktop lockdown)
 - [ ] (Stretch) AD security exploration in the isolated segment
